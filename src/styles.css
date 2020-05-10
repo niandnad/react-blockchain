@@ -1,0 +1,15 @@
+.bc-app {
+  font-family: sans-serif;
+}
+
+.top {
+  display: flex;
+}
+
+.top > * {
+  margin-right: 15px;
+}
+
+.table {
+  margin: 25px 0;
+}
